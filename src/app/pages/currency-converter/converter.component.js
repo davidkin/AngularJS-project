@@ -8,6 +8,5 @@ export default class ConverterComponent {
         this.controller = currencyController;
         this.controllerAs = 'cc';
         this.templateUrl = converterTpl;
-
     }
 }
